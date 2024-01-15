@@ -22,7 +22,7 @@ export default function Autoriz(){
         }
         )
         if(account==false){ 
-            // window.location.replace("/programs");
+             window.location.replace("/programs");
         }
         
         
